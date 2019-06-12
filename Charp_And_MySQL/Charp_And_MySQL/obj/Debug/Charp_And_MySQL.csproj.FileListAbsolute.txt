@@ -1,0 +1,8 @@
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\bin\Debug\Charp_And_MySQL.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\bin\Debug\Charp_And_MySQL.exe
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\bin\Debug\Charp_And_MySQL.pdb
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\obj\Debug\Charp_And_MySQL.Form1.resources
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\obj\Debug\Charp_And_MySQL.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\obj\Debug\Charp_And_MySQL.csproj.GenerateResource.Cache
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\obj\Debug\Charp_And_MySQL.exe
+C:\Users\Sergey\Documents\Visual Studio 2013\Projects\Charp_And_MySQL\Charp_And_MySQL\obj\Debug\Charp_And_MySQL.pdb
