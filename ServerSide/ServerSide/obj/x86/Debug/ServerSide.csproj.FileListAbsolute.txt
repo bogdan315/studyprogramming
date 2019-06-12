@@ -1,0 +1,4 @@
+c:\users\sergey\documents\visual studio 2010\Projects\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+c:\users\sergey\documents\visual studio 2010\Projects\ServerSide\ServerSide\obj\x86\Debug\ServerSide.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ServerSide\ServerSide\obj\x86\Debug\ServerSide.pdb

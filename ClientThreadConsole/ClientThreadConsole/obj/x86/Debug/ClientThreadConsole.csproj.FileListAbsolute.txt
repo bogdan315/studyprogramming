@@ -1,0 +1,7 @@
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\bin\Debug\ClientThreadConsole.exe
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\bin\Debug\ClientThreadConsole.pdb
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\bin\Debug\DTOs.dll
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\bin\Debug\DTOs.pdb
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\obj\x86\Debug\ClientThreadConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\obj\x86\Debug\ClientThreadConsole.exe
+C:\Users\Sergey\documents\visual studio 2010\Projects\ClientThreadConsole\ClientThreadConsole\obj\x86\Debug\ClientThreadConsole.pdb

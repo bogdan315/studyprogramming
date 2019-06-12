@@ -1,0 +1,5 @@
+c:\users\sergey\documents\visual studio 2010\Projects\TimeServer\TimeServer\bin\Debug\TimeServer.exe
+c:\users\sergey\documents\visual studio 2010\Projects\TimeServer\TimeServer\bin\Debug\TimeServer.pdb
+c:\users\sergey\documents\visual studio 2010\Projects\TimeServer\TimeServer\obj\x86\Debug\TimeServer.exe
+c:\users\sergey\documents\visual studio 2010\Projects\TimeServer\TimeServer\obj\x86\Debug\TimeServer.pdb
+C:\Users\Sergey\documents\visual studio 2010\Projects\TimeServer\TimeServer\obj\x86\Debug\TimeServer.csprojResolveAssemblyReference.cache

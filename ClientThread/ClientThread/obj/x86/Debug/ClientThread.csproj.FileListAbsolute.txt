@@ -1,0 +1,4 @@
+c:\users\sergey\documents\visual studio 2010\Projects\ClientThread\ClientThread\bin\Debug\ClientThread.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ClientThread\ClientThread\bin\Debug\ClientThread.pdb
+c:\users\sergey\documents\visual studio 2010\Projects\ClientThread\ClientThread\obj\x86\Debug\ClientThread.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ClientThread\ClientThread\obj\x86\Debug\ClientThread.pdb

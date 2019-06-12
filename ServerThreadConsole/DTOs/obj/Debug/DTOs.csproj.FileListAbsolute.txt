@@ -1,0 +1,4 @@
+C:\Users\Sergey\documents\visual studio 2010\Projects\ServerThreadConsole\DTOs\bin\Debug\DTOs.dll
+C:\Users\Sergey\documents\visual studio 2010\Projects\ServerThreadConsole\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Sergey\documents\visual studio 2010\Projects\ServerThreadConsole\DTOs\obj\Debug\DTOs.dll
+C:\Users\Sergey\documents\visual studio 2010\Projects\ServerThreadConsole\DTOs\obj\Debug\DTOs.pdb

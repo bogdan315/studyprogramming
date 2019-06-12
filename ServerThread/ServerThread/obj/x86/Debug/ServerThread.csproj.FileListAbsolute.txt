@@ -1,0 +1,5 @@
+c:\users\sergey\documents\visual studio 2010\Projects\ServerThread\ServerThread\bin\Debug\ServerThread.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ServerThread\ServerThread\bin\Debug\ServerThread.pdb
+c:\users\sergey\documents\visual studio 2010\Projects\ServerThread\ServerThread\obj\x86\Debug\ServerThread.exe
+c:\users\sergey\documents\visual studio 2010\Projects\ServerThread\ServerThread\obj\x86\Debug\ServerThread.pdb
+C:\Users\Sergey\documents\visual studio 2010\Projects\ServerThread\ServerThread\obj\x86\Debug\ServerThread.csprojResolveAssemblyReference.cache
